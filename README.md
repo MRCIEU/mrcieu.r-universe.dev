@@ -4,4 +4,4 @@ This is the repo specifying which R packages contribute to <https://mrcieu.r-uni
 
 The corresponding source universe repo is at <https://github.com/r-universe/mrcieu>.
 
-To add/remove packages please edit the *packages.json* file.
+To add/remove packages please edit the *packages.json* file in this repository (<https://github.com/MRCIEU/mrcieu.r-universe.dev>).
