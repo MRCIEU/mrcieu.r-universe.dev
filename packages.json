@@ -2,5 +2,9 @@
     {
         "package": "TwoSampleMR",
         "url": "https://github.com/MRCIEU/TwoSampleMR"
+    },
+    {
+        "package": "epigraphdb",
+        "url": "https://github.com/MRCIEU/epigraphdb-r"
     }
 ]
