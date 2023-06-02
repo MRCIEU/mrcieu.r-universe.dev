@@ -6,5 +6,9 @@
     {
         "package": "epigraphdb",
         "url": "https://github.com/MRCIEU/epigraphdb-r"
+    },
+    {
+        "package": "ieugwasr",
+        "url": "https://github.com/MRCIEU/ieugwasr"
     }
 ]
