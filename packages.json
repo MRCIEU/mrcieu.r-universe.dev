@@ -10,5 +10,9 @@
     {
         "package": "ieugwasr",
         "url": "https://github.com/MRCIEU/ieugwasr"
+    },
+    {
+        "package": "MRInstruments",
+        "url": "https://github.com/MRCIEU/MRInstruments"
     }
 ]
