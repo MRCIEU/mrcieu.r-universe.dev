@@ -24,6 +24,10 @@
         "url": "https://github.com/WSpiller/MVMR"
     },
     {
+        "package": "RMVMR",
+        "url": "https://github.com/WSpiller/RMVMR"
+    },
+    {
         "package": "TwoSampleMR",
         "url": "https://github.com/MRCIEU/TwoSampleMR"
     }
