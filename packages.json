@@ -4,6 +4,10 @@
         "url": "https://github.com/MRCIEU/epigraphdb-r"
     },
     {
+        "package": "gwasglue",
+        "url": "https://github.com/MRCIEU/gwasglue"
+    },
+    {
         "package": "gwasvcf",
         "url": "https://github.com/MRCIEU/gwasvcf"
     },
