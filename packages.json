@@ -24,6 +24,10 @@
         "url": "https://github.com/WSpiller/MVMR"
     },
     {
+        "package": "RadialMR",
+        "url": "https://github.com/WSpiller/RadialMR"
+    },
+    {
         "package": "RMVMR",
         "url": "https://github.com/WSpiller/RMVMR"
     },
