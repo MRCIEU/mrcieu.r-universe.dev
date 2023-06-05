@@ -4,6 +4,10 @@
         "url": "https://github.com/MRCIEU/epigraphdb-r"
     },
     {
+        "package": "genetics.binaRies",
+        "url": "https://github.com/MRCIEU/genetics.binaRies"
+    },
+    {
         "package": "gwasglue",
         "url": "https://github.com/MRCIEU/gwasglue"
     },
