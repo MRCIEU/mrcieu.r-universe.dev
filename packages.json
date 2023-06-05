@@ -4,6 +4,10 @@
         "url": "https://github.com/MRCIEU/epigraphdb-r"
     },
     {
+        "package": "gwasvcf",
+        "url": "https://github.com/MRCIEU/gwasvcf"
+    },
+    {
         "package": "ieugwasr",
         "url": "https://github.com/MRCIEU/ieugwasr"
     },
