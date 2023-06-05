@@ -20,6 +20,10 @@
         "url": "https://github.com/MRCIEU/MRInstruments"
     },
     {
+        "package": "MVMR",
+        "url": "https://github.com/WSpiller/MVMR"
+    },
+    {
         "package": "TwoSampleMR",
         "url": "https://github.com/MRCIEU/TwoSampleMR"
     }
