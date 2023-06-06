@@ -5,6 +5,10 @@
         "branch": "release"
     },
     {
+        "package": "CheckSumStats",
+        "url": "https://github.com/MRCIEU/CheckSumStats"
+    },
+    {
         "package": "epigraphdb",
         "url": "https://github.com/MRCIEU/epigraphdb-r"
     },
