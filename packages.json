@@ -28,6 +28,11 @@
         "url": "https://github.com/WSpiller/MVMR"
     },
     {
+        "package": "OneSampleMR",
+        "url": "https://github.com/remlapmot/OneSampleMR",
+        "branch": "release"
+    },
+    {
         "package": "RadialMR",
         "url": "https://github.com/WSpiller/RadialMR"
     },
