@@ -50,6 +50,10 @@
         "url": "https://github.com/WSpiller/RMVMR"
     },
     {
+        "package": "tmsens",
+        "url": "https://github.com/dea-hazewinkel/tmsens"
+    },
+    {
         "package": "TwoSampleMR",
         "url": "https://github.com/MRCIEU/TwoSampleMR"
     }
