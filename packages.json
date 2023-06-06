@@ -13,6 +13,10 @@
         "url": "https://github.com/MRCIEU/genetics.binaRies"
     },
     {
+        "package": "GwasDataImport",
+        "url": "https://github.com/MRCIEU/GwasDataImport"
+    },
+    {
         "package": "gwasglue",
         "url": "https://github.com/MRCIEU/gwasglue"
     },
