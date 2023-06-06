@@ -25,6 +25,10 @@
         "url": "https://github.com/MRCIEU/ieugwasr"
     },
     {
+        "package": "mrbayes",
+        "url": "https://github.com/okezie94/mrbayes"
+    },
+    {
         "package": "MRInstruments",
         "url": "https://github.com/MRCIEU/MRInstruments"
     },
