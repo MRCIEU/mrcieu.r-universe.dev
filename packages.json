@@ -1,5 +1,10 @@
 [
     {
+        "package": "bpbounds",
+        "url": "https://github.com/remlapmot/bpbounds",
+        "branch": "release"
+    },
+    {
         "package": "epigraphdb",
         "url": "https://github.com/MRCIEU/epigraphdb-r"
     },
