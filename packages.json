@@ -41,6 +41,10 @@
         "url": "https://github.com/WSpiller/MVMR"
     },
     {
+        "package": "nlmr",
+        "url": "https://github.com/jrs95/nlmr"
+    },
+    {
         "package": "OneSampleMR",
         "url": "https://github.com/remlapmot/OneSampleMR",
         "branch": "release"
