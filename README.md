@@ -1,4 +1,7 @@
 # mrcieu.r-universe.dev :rocket:
+[![:name status badge](https://mrcieu.r-universe.dev/badges/:name)](https://mrcieu.r-universe.dev/)
+[![:registry status badge](https://mrcieu.r-universe.dev/badges/:registry)](https://github.com/r-universe/mrcieu/actions/workflows/sync.yml)
+[![:total status badge](https://mrcieu.r-universe.dev/badges/:total)](https://mrcieu.r-universe.dev/)
 
 This is the repo specifying which R packages contribute to <https://mrcieu.r-universe.dev/>.
 
