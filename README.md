@@ -1,4 +1,4 @@
-# mrcieu.r-universe.dev
+# mrcieu.r-universe.dev :rocket:
 
 This is the repo specifying which R packages contribute to <https://mrcieu.r-universe.dev/>.
 
