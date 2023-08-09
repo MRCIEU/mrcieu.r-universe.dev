@@ -21,6 +21,10 @@
         "url": "https://github.com/MRCIEU/gwasglue"
     },
     {
+        "package": "gwasglue2",
+        "url": "https://github.com/MRCIEU/gwasglue2"
+    },
+    {
         "package": "gwasvcf",
         "url": "https://github.com/MRCIEU/gwasvcf"
     },
