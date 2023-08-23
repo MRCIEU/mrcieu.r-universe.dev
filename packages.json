@@ -62,6 +62,10 @@
         "url": "https://github.com/WSpiller/RMVMR"
     },
     {
+        "package": "SUMnlmr",
+        "url": "https://github.com/amymariemason/SUMnlmr"
+    },
+    {
         "package": "tmsens",
         "url": "https://github.com/dea-hazewinkel/tmsens"
     },
