@@ -9,6 +9,10 @@
         "branch": "*release"
     },
     {
+        "package": "cause",
+        "url": "https://github.com/jean997/cause"
+    },
+    {
         "package": "epigraphdb",
         "url": "https://github.com/MRCIEU/epigraphdb-r"
     },
