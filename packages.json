@@ -13,6 +13,10 @@
         "url": "https://github.com/jean997/cause"
     },
     {
+        "package": "causl",
+        "url": "https://github.com/rje42/causl"
+    },
+    {
         "package": "epigraphdb",
         "url": "https://github.com/MRCIEU/epigraphdb-r"
     },
