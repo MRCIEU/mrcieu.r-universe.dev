@@ -21,6 +21,10 @@
         "url": "https://github.com/MRCIEU/genetics.binaRies"
     },
     {
+        "package": "GRAPPLE",
+        "url": "https://github.com/jingshuw/GRAPPLE"
+    },
+    {
         "package": "gwasglue",
         "url": "https://github.com/MRCIEU/gwasglue"
     },
