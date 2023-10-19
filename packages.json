@@ -53,6 +53,10 @@
         "url": "https://github.com/MRCIEU/MRInstruments"
     },
     {
+        "package": "MRlap",
+        "url": "https://github.com/n-mounier/MRlap"
+    },
+    {
         "package": "MVMR",
         "url": "https://github.com/WSpiller/MVMR"
     },
