@@ -57,6 +57,10 @@
         "url": "https://github.com/MRCIEU/ieugwasr"
     },
     {
+        "package": "journalclub",
+        "url": "https://github.com/perishky/journalclub"
+    },
+    {
         "package": "meffil",
         "url": "https://github.com/perishky/meffil"
     },
