@@ -17,6 +17,10 @@
         "url": "https://github.com/rje42/causl"
     },
     {
+        "package": "dmrff",
+        "url": "https://github.com/perishky/dmrff"
+    },
+    {
         "package": "epigraphdb",
         "url": "https://github.com/MRCIEU/epigraphdb-r"
     },
