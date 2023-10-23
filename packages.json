@@ -21,6 +21,10 @@
         "url": "https://github.com/MRCIEU/epigraphdb-r"
     },
     {
+        "package": "ewaff",
+        "url": "https://github.com/perishky/ewaff"
+    },
+    {
         "package": "genetics.binaRies",
         "url": "https://github.com/MRCIEU/genetics.binaRies"
     },
