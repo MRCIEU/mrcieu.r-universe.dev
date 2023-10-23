@@ -1,5 +1,9 @@
 [
     {
+        "package": "alspac",
+        "url": "https://github.com/explodecomputer/alspac"
+    },
+    {
         "package": "BESIDEMR",
         "url": "https://github.com/CYShapland/BESIDEMR"
     },
