@@ -21,6 +21,10 @@
         "url": "https://github.com/rje42/causl"
     },
     {
+        "package": "CheckSumStats",
+        "url": "https://github.com/MRCIEU/CheckSumStats"
+    },
+    {
         "package": "dmrff",
         "url": "https://github.com/perishky/dmrff"
     },
