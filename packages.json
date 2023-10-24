@@ -77,6 +77,10 @@
         "url": "https://github.com/perishky/meffonym"
     },
     {
+        "package": "MRAID",
+        "url": "https://github.com/yuanzhongshang/MRAID"
+    },
+    {
         "package": "mrbayes",
         "url": "https://github.com/okezie94/mrbayes"
     },
