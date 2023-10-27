@@ -77,6 +77,10 @@
         "url": "https://github.com/perishky/meffonym"
     },
     {
+        "package": "metaboprep",
+        "url": "https://github.com/MRCIEU/metaboprep"
+    },
+    {
         "package": "MRAID",
         "url": "https://github.com/yuanzhongshang/MRAID"
     },
