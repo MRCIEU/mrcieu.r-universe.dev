@@ -41,6 +41,10 @@
         "url": "https://github.com/MRCIEU/genetics.binaRies"
     },
     {
+        "package": "GenomicSEM",
+        "url": "https://github.com/GenomicSEM/GenomicSEM"
+    },
+    {
         "package": "GRAPPLE",
         "url": "https://github.com/jingshuw/GRAPPLE"
     },
