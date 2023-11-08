@@ -101,6 +101,10 @@
         "url": "https://github.com/noahlorinczcomi/MRBEE"
     },
     {
+        "package": "mrclust",
+        "url": "https://github.com/cnfoley/mrclust"
+    },
+    {
         "package": "MRInstruments",
         "url": "https://github.com/MRCIEU/MRInstruments"
     },
