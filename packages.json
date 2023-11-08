@@ -125,6 +125,10 @@
         "url": "https://github.com/WSpiller/MVMR"
     },
     {
+        "package": "navmix",
+        "url": "https://github.com/aj-grant/navmix"
+    },
+    {
         "package": "nlmr",
         "url": "https://github.com/jrs95/nlmr"
     },
