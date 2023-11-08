@@ -109,6 +109,10 @@
         "url": "https://github.com/cnfoley/mrclust"
     },
     {
+        "package": "mrcovreg",
+        "url": "https://github.com/aj-grant/mrcovreg"
+    },
+    {
         "package": "MRInstruments",
         "url": "https://github.com/MRCIEU/MRInstruments"
     },
