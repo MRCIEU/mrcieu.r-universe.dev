@@ -97,6 +97,10 @@
         "url": "https://github.com/okezie94/mrbayes"
     },
     {
+        "package": "MRBEE",
+        "url": "https://github.com/noahlorinczcomi/MRBEE"
+    },
+    {
         "package": "MRInstruments",
         "url": "https://github.com/MRCIEU/MRInstruments"
     },
