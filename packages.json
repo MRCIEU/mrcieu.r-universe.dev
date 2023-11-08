@@ -73,6 +73,10 @@
         "url": "https://github.com/perishky/journalclub"
     },
     {
+        "package": "lhcMR",
+        "url": "https://github.com/LizaDarrous/lhcMR"
+    },
+    {
         "package": "meffil",
         "url": "https://github.com/perishky/meffil"
     },
