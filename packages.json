@@ -138,6 +138,10 @@
         "subdir": "MRMiSTERI"
     },
     {
+        "package": "MRMix",
+        "url": "https://github.com/gqi/MRMix"
+    },
+    {
         "package": "MRPATH",
         "url": "https://github.com/danieliong/MRPATH"
     },
