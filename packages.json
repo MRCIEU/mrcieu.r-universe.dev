@@ -133,6 +133,11 @@
         "url": "https://github.com/n-mounier/MRlap"
     },
     {
+        "package": "MRMiSTERI",
+        "url": "https://github.com/zhonghualiu/MRMiSTERI",
+        "subdir": "MRMiSTERI"
+    },
+    {
         "package": "MRPATH",
         "url": "https://github.com/danieliong/MRPATH"
     },
