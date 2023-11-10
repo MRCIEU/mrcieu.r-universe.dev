@@ -125,6 +125,10 @@
         "url": "https://github.com/n-mounier/MRlap"
     },
     {
+        "package": "mrsensemakr",
+        "url": "https://github.com/carloscinelli/mrsensemakr"
+    },
+    {
         "package": "MVMR",
         "url": "https://github.com/WSpiller/MVMR"
     },
