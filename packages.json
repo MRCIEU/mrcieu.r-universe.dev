@@ -125,6 +125,10 @@
         "url": "https://github.com/n-mounier/MRlap"
     },
     {
+        "package": "MRPATH",
+        "url": "https://github.com/danieliong/MRPATH"
+    },
+    {
         "package": "mrsensemakr",
         "url": "https://github.com/carloscinelli/mrsensemakr"
     },
