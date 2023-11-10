@@ -29,6 +29,10 @@
         "url": "https://github.com/MRCIEU/CheckSumStats"
     },
     {
+        "package": "CIVMR",
+        "url": "https://github.com/LaiJiang/CIVMR"
+    },
+    {
         "package": "dmrff",
         "url": "https://github.com/perishky/dmrff"
     },
