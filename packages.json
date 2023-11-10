@@ -13,6 +13,10 @@
         "branch": "*release"
     },
     {
+        "package": "BWMR",
+        "url": "https://github.com/jiazhao97/BWMR"
+    },
+    {
         "package": "cause",
         "url": "https://github.com/jean997/cause"
     },
