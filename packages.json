@@ -133,6 +133,10 @@
         "url": "https://github.com/n-mounier/MRlap"
     },
     {
+        "package": "mrlocus",
+        "url": "https://github.com/thelovelab/mrlocus/"
+    },
+    {
         "package": "MRMiSTERI",
         "url": "https://github.com/zhonghualiu/MRMiSTERI",
         "subdir": "MRMiSTERI"
