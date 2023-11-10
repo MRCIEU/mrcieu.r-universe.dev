@@ -109,6 +109,10 @@
         "url": "https://github.com/noahlorinczcomi/MRBEE"
     },
     {
+        "package": "MRchecks",
+        "url": "https://github.com/jalabrecque/MRchecks"
+    },
+    {
         "package": "mrclust",
         "url": "https://github.com/cnfoley/mrclust"
     },
