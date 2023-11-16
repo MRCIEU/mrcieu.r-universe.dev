@@ -45,6 +45,10 @@
         "url": "https://github.com/perishky/ewaff"
     },
     {
+        "package": "genepi.utils",
+        "url": "https://github.com/nicksunderland/genepi.utils"
+    },
+    {
         "package": "genetics.binaRies",
         "url": "https://github.com/MRCIEU/genetics.binaRies"
     },
