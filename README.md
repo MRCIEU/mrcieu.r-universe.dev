@@ -82,6 +82,6 @@ install.packages(
 WASM binaries for WebR users are available with the code below. Note that currently not all packages are available for WebR.
 
 ```r
-install.packages('MVMR',
+install.packages('TwoSampleMR',
   repos = c('https://mrcieu.r-universe.dev', 'https://repo.r-wasm.org'))
 ```
