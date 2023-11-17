@@ -76,3 +76,12 @@ install.packages(
   )
 )
 ```
+
+### WebR
+
+WASM binaries for WebR users are available with the code. Note that currently not all packages are available for WebR.
+
+```r
+install.packages('MVMR',
+  repos = c('https://mrcieu.r-universe.dev', 'https://repo.r-wasm.org'))
+```
