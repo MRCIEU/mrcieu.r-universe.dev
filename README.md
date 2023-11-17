@@ -23,6 +23,8 @@ The instructions about how to setup on r-universe.dev are [here](https://ropensc
 
 To install binary R packages from the MRCIEU R-universe, include the relevant URL in your `repos` list as shown below (or set the `repos` option using `options(repos = c(...)))`.
 
+### Windows and Intel Macs
+
 For Windows and Intel Mac users the installation code to obtain a binary version of **TwoSampleMR** is
 
 ```r
@@ -35,6 +37,8 @@ install.packages(
   )
 )
 ```
+
+### Ubuntu Jammy Jellyfish
 
 For Ubuntu Jammy Jellyfish users running R through RStudio Desktop or RStudio Server the installation code is
 
