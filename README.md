@@ -79,7 +79,7 @@ install.packages(
 
 ### WebR
 
-WASM binaries for WebR users are available with the code. Note that currently not all packages are available for WebR.
+WASM binaries for WebR users are available with the code below. Note that currently not all packages are available for WebR.
 
 ```r
 install.packages('MVMR',
