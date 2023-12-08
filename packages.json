@@ -65,6 +65,10 @@
         "url": "https://github.com/jingshuw/GRAPPLE"
     },
     {
+        "package": "GWASBrewer",
+        "url": "https://github.com/jean997/GWASBrewer"
+    },
+    {
         "package": "GwasDataImport",
         "url": "https://github.com/MRCIEU/GwasDataImport"
     },
