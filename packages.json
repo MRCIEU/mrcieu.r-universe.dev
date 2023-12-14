@@ -195,6 +195,10 @@
         "url": "https://github.com/WSpiller/RMVMR"
     },
     {
+        "package": "simmr",
+        "url": "https://github.com/noahlorinczcomi/simmr"
+    },
+    {
         "package": "SlopeHunter",
         "url": "https://github.com/Osmahmoud/SlopeHunter"
     },
