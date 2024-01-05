@@ -195,6 +195,10 @@
         "url": "https://github.com/WSpiller/RadialMR"
     },
     {
+        "package": "RFQT",
+        "url": "https://github.com/HDTian/RFQT"
+    },
+    {
         "package": "RMVMR",
         "url": "https://github.com/WSpiller/RMVMR"
     },
