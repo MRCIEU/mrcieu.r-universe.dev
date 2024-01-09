@@ -113,6 +113,10 @@
         "url": "https://github.com/MRCIEU/metaboprep"
     },
     {
+        "package": "MR.Corr2",
+        "url": "https://github.com/QingCheng0218/MR.Corr2"
+    },
+    {
         "package": "MR.CUE",
         "url": "https://github.com/QingCheng0218/MR.CUE"
     },
