@@ -125,6 +125,10 @@
         "url": "https://github.com/yuanzhongshang/MRAID"
     },
     {
+        "package": "MRAPSS",
+        "url": "https://github.com/YangLabHKUST/MR-APSS"
+    },
+    {
         "package": "mrbayes",
         "url": "https://github.com/okezie94/mrbayes"
     },
