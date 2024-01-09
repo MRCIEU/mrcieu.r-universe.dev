@@ -186,6 +186,10 @@
         "url": "https://github.com/WSpiller/MVMR"
     },
     {
+        "package": "MVMRcML",
+        "url": "https://github.com/ZhaotongL/MVMR-cML"
+    },
+    {
         "package": "navmix",
         "url": "https://github.com/aj-grant/navmix"
     },
