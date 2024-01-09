@@ -145,6 +145,10 @@
         "url": "https://github.com/cnfoley/mrclust"
     },
     {
+        "package": "MRcML",
+        "url": "https://github.com/xue-hr/MRcML"
+    },
+    {
         "package": "MRInstruments",
         "url": "https://github.com/MRCIEU/MRInstruments"
     },
