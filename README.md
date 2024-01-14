@@ -25,7 +25,7 @@ To install binary R packages from the MRCIEU R-universe, include the relevant UR
 
 ### Windows and Macs
 
-For Windows and Mac users (for both Intel Macs and Apple silicon Macs) the installation code to obtain a binary version of **TwoSampleMR** is
+For Windows and Mac users (for both Intel Macs and Apple Silicon Macs [aka M1, M2, and M3]) the installation code to obtain a binary version of **TwoSampleMR** is
 
 ```r
 # Installation code for Windows and Mac users
