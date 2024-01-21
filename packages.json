@@ -237,5 +237,9 @@
     {
         "package": "varGWASR",
         "url": "https://github.com/MRCIEU/varGWASR"
+    },
+    {
+        "package": "winnerscurse",
+        "url": "https://github.com/amandaforde/winnerscurse"
     }
 ]
