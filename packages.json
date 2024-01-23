@@ -162,8 +162,9 @@
     },
     {
         "package": "MRMiSTERI",
-        "url": "https://github.com/zhonghualiu/MRMiSTERI",
-        "subdir": "MRMiSTERI"
+        "url": "https://github.com/remlapmot/MRMiSTERI",
+        "subdir": "MRMiSTERI",
+        "branch": "suggestions"
     },
     {
         "package": "MRMix",
