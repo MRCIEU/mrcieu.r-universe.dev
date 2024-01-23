@@ -105,6 +105,10 @@
         "url": "https://github.com/MRCIEU/metaboprep"
     },
     {
+        "package": "midoc",
+        "url": "https://github.com/elliecurnow/midoc"
+    },
+    {
         "package": "MR.Corr2",
         "url": "https://github.com/QingCheng0218/MR.Corr2"
     },
