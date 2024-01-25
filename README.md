@@ -21,7 +21,7 @@ The instructions about how to setup on r-universe.dev are [here](https://ropensc
 
 ## How to install binary R packages from the MRCIEU R-universe
 
-To install binary R packages from the MRCIEU R-universe, include the relevant URL in your `repos` list as shown below (or set the `repos` option using `options(repos = c(...)))`.
+To install binary R packages from the MRCIEU R-universe, include the relevant URL in your `repos` list as shown below (alternatively you can set the `repos` option using `options(repos = c(...))` which you could do in your *.Rprofile* file).
 
 ### Windows and Macs
 
