@@ -101,6 +101,10 @@
         "url": "https://github.com/perishky/meffonym"
     },
     {
+        "package": "MendelianRandomization",
+        "url": "https://github.com/sb452/MendelianRandomization"
+    },
+    {
         "package": "metaboprep",
         "url": "https://github.com/MRCIEU/metaboprep"
     },
