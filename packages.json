@@ -1,258 +1,258 @@
 [
-    {
-        "package": "alspac",
-        "url": "https://github.com/explodecomputer/alspac"
-    },
-    {
-        "package": "BESIDEMR",
-        "url": "https://github.com/CYShapland/BESIDEMR"
-    },
-    {
-        "package": "bpbounds",
-        "url": "https://github.com/remlapmot/bpbounds",
-        "branch": "*release"
-    },
-    {
-        "package": "CAMERA",
-        "url": "https://github.com/yoonsucho/CAMERA"
-    },
-    {
-        "package": "cause",
-        "url": "https://github.com/jean997/cause"
-    },
-    {
-        "package": "causl",
-        "url": "https://github.com/rje42/causl"
-    },
-    {
-        "package": "CheckSumStats",
-        "url": "https://github.com/MRCIEU/CheckSumStats"
-    },
-    {
-        "package": "CIVMR",
-        "url": "https://github.com/LaiJiang/CIVMR"
-    },
-    {
-        "package": "dmrff",
-        "url": "https://github.com/perishky/dmrff"
-    },
-    {
-        "package": "epigraphdb",
-        "url": "https://github.com/MRCIEU/epigraphdb-r"
-    },
-    {
-        "package": "ewaff",
-        "url": "https://github.com/perishky/ewaff"
-    },
-    {
-        "package": "genepi.utils",
-        "url": "https://github.com/nicksunderland/genepi.utils"
-    },
-    {
-        "package": "genetics.binaRies",
-        "url": "https://github.com/MRCIEU/genetics.binaRies"
-    },
-    {
-        "package": "GenomicSEM",
-        "url": "https://github.com/GenomicSEM/GenomicSEM"
-    },
-    {
-        "package": "GRAPPLE",
-        "url": "https://github.com/jingshuw/GRAPPLE"
-    },
-    {
-        "package": "GWASBrewer",
-        "url": "https://github.com/jean997/GWASBrewer"
-    },
-    {
-        "package": "GwasDataImport",
-        "url": "https://github.com/MRCIEU/GwasDataImport"
-    },
-    {
-        "package": "gwasglue",
-        "url": "https://github.com/MRCIEU/gwasglue"
-    },
-    {
-        "package": "gwasglue2",
-        "url": "https://github.com/MRCIEU/gwasglue2"
-    },
-    {
-        "package": "gwasvcf",
-        "url": "https://github.com/MRCIEU/gwasvcf"
-    },
-    {
-        "package": "hyprcoloc",
-        "url": "https://github.com/jrs95/hyprcoloc"
-    },
-    {
-        "package": "ieugwasr",
-        "url": "https://github.com/MRCIEU/ieugwasr"
-    },
-    {
-        "package": "journalclub",
-        "url": "https://github.com/perishky/journalclub"
-    },
-    {
-        "package": "lhcMR",
-        "url": "https://github.com/LizaDarrous/lhcMR"
-    },
-    {
-        "package": "meffonym",
-        "url": "https://github.com/perishky/meffonym"
-    },
-    {
-        "package": "MendelianRandomization",
-        "url": "https://github.com/sb452/MendelianRandomization"
-    },
-    {
-        "package": "metaboprep",
-        "url": "https://github.com/MRCIEU/metaboprep"
-    },
-    {
-        "package": "midoc",
-        "url": "https://github.com/elliecurnow/midoc"
-    },
-    {
-        "package": "MR.Corr2",
-        "url": "https://github.com/QingCheng0218/MR.Corr2"
-    },
-    {
-        "package": "MR.CUE",
-        "url": "https://github.com/QingCheng0218/MR.CUE"
-    },
-    {
-        "package": "MR.LDP",
-        "url": "https://github.com/QingCheng0218/MR.LDP"
-    },
-    {
-        "package": "mr.simss",
-        "url": "https://github.com/amandaforde/mr.simss"
-    },
-    {
-        "package": "MR2",
-        "url": "https://github.com/lb664/MR2"
-    },
-    {
-        "package": "MRAID",
-        "url": "https://github.com/yuanzhongshang/MRAID"
-    },
-    {
-        "package": "MRAPSS",
-        "url": "https://github.com/YangLabHKUST/MR-APSS"
-    },
-    {
-        "package": "mrbayes",
-        "url": "https://github.com/okezie94/mrbayes"
-    },
-    {
-        "package": "MRBEE",
-        "url": "https://github.com/noahlorinczcomi/MRBEE"
-    },
-    {
-        "package": "MRchecks",
-        "url": "https://github.com/jalabrecque/MRchecks"
-    },
-    {
-        "package": "mrclust",
-        "url": "https://github.com/cnfoley/mrclust"
-    },
-    {
-        "package": "MRcML",
-        "url": "https://github.com/xue-hr/MRcML"
-    },
-    {
-        "package": "MRInstruments",
-        "url": "https://github.com/MRCIEU/MRInstruments"
-    },
-    {
-        "package": "mrlocus",
-        "url": "https://github.com/thelovelab/mrlocus/"
-    },
-    {
-        "package": "MRMiSTERI",
-        "url": "https://github.com/remlapmot/MRMiSTERI",
-        "subdir": "MRMiSTERI",
-        "branch": "suggestions"
-    },
-    {
-        "package": "MRMix",
-        "url": "https://github.com/gqi/MRMix"
-    },
-    {
-        "package": "MRPATH",
-        "url": "https://github.com/danieliong/MRPATH"
-    },
-    {
-        "package": "mrsensemakr",
-        "url": "https://github.com/carloscinelli/mrsensemakr"
-    },
-    {
-        "package": "MRTool",
-        "url": "https://github.com/askieslinger/MRTool"
-    },
-    {
-        "package": "MVMR",
-        "url": "https://github.com/WSpiller/MVMR"
-    },
-    {
-        "package": "MVMRcML",
-        "url": "https://github.com/ZhaotongL/MVMR-cML"
-    },
-    {
-        "package": "navmix",
-        "url": "https://github.com/aj-grant/navmix"
-    },
-    {
-        "package": "nlmr",
-        "url": "https://github.com/jrs95/nlmr"
-    },
-    {
-        "package": "OneSampleMR",
-        "url": "https://github.com/remlapmot/OneSampleMR",
-        "branch": "*release"
-    },
-    {
-        "package": "RadialMR",
-        "url": "https://github.com/WSpiller/RadialMR"
-    },
-    {
-        "package": "RFQT",
-        "url": "https://github.com/HDTian/RFQT"
-    },
-    {
-        "package": "RMVMR",
-        "url": "https://github.com/WSpiller/RMVMR"
-    },
-    {
-        "package": "simmrd",
-        "url": "https://github.com/noahlorinczcomi/simmrd"
-    },
-    {
-        "package": "SlopeHunter",
-        "url": "https://github.com/Osmahmoud/SlopeHunter"
-    },
-    {
-        "package": "SUMnlmr",
-        "url": "https://github.com/amymariemason/SUMnlmr"
-    },
-    {
-        "package": "tmsens",
-        "url": "https://github.com/dea-hazewinkel/tmsens"
-    },
-    {
-        "package": "TwoSampleMR",
-        "url": "https://github.com/MRCIEU/TwoSampleMR"
-    },
-    {
-        "package": "varGWASR",
-        "url": "https://github.com/MRCIEU/varGWASR"
-    },
-    {
-        "package": "winnerscurse",
-        "url": "https://github.com/amandaforde/winnerscurse"
-    }
+  {
+    "package": "alspac",
+    "url": "https://github.com/explodecomputer/alspac"
+  },
+  {
+    "package": "BESIDEMR",
+    "url": "https://github.com/CYShapland/BESIDEMR"
+  },
+  {
+    "package": "bpbounds",
+    "url": "https://github.com/remlapmot/bpbounds",
+    "branch": "*release"
+  },
+  {
+    "package": "CAMERA",
+    "url": "https://github.com/yoonsucho/CAMERA"
+  },
+  {
+    "package": "cause",
+    "url": "https://github.com/jean997/cause"
+  },
+  {
+    "package": "causl",
+    "url": "https://github.com/rje42/causl"
+  },
+  {
+    "package": "CheckSumStats",
+    "url": "https://github.com/MRCIEU/CheckSumStats"
+  },
+  {
+    "package": "CIVMR",
+    "url": "https://github.com/LaiJiang/CIVMR"
+  },
+  {
+    "package": "dmrff",
+    "url": "https://github.com/perishky/dmrff"
+  },
+  {
+    "package": "epigraphdb",
+    "url": "https://github.com/MRCIEU/epigraphdb-r"
+  },
+  {
+    "package": "ewaff",
+    "url": "https://github.com/perishky/ewaff"
+  },
+  {
+    "package": "genepi.utils",
+    "url": "https://github.com/nicksunderland/genepi.utils"
+  },
+  {
+    "package": "genetics.binaRies",
+    "url": "https://github.com/MRCIEU/genetics.binaRies"
+  },
+  {
+    "package": "GenomicSEM",
+    "url": "https://github.com/GenomicSEM/GenomicSEM"
+  },
+  {
+    "package": "GRAPPLE",
+    "url": "https://github.com/jingshuw/GRAPPLE"
+  },
+  {
+    "package": "GWASBrewer",
+    "url": "https://github.com/jean997/GWASBrewer"
+  },
+  {
+    "package": "GwasDataImport",
+    "url": "https://github.com/MRCIEU/GwasDataImport"
+  },
+  {
+    "package": "gwasglue",
+    "url": "https://github.com/MRCIEU/gwasglue"
+  },
+  {
+    "package": "gwasglue2",
+    "url": "https://github.com/MRCIEU/gwasglue2"
+  },
+  {
+    "package": "gwasvcf",
+    "url": "https://github.com/MRCIEU/gwasvcf"
+  },
+  {
+    "package": "hyprcoloc",
+    "url": "https://github.com/jrs95/hyprcoloc"
+  },
+  {
+    "package": "ieugwasr",
+    "url": "https://github.com/MRCIEU/ieugwasr"
+  },
+  {
+    "package": "journalclub",
+    "url": "https://github.com/perishky/journalclub"
+  },
+  {
+    "package": "lhcMR",
+    "url": "https://github.com/LizaDarrous/lhcMR"
+  },
+  {
+    "package": "meffonym",
+    "url": "https://github.com/perishky/meffonym"
+  },
+  {
+    "package": "MendelianRandomization",
+    "url": "https://github.com/sb452/MendelianRandomization"
+  },
+  {
+    "package": "metaboprep",
+    "url": "https://github.com/MRCIEU/metaboprep"
+  },
+  {
+    "package": "midoc",
+    "url": "https://github.com/elliecurnow/midoc"
+  },
+  {
+    "package": "MR.Corr2",
+    "url": "https://github.com/QingCheng0218/MR.Corr2"
+  },
+  {
+    "package": "MR.CUE",
+    "url": "https://github.com/QingCheng0218/MR.CUE"
+  },
+  {
+    "package": "MR.LDP",
+    "url": "https://github.com/QingCheng0218/MR.LDP"
+  },
+  {
+    "package": "mr.simss",
+    "url": "https://github.com/amandaforde/mr.simss"
+  },
+  {
+    "package": "MR2",
+    "url": "https://github.com/lb664/MR2"
+  },
+  {
+    "package": "MRAID",
+    "url": "https://github.com/yuanzhongshang/MRAID"
+  },
+  {
+    "package": "MRAPSS",
+    "url": "https://github.com/YangLabHKUST/MR-APSS"
+  },
+  {
+    "package": "mrbayes",
+    "url": "https://github.com/okezie94/mrbayes"
+  },
+  {
+    "package": "MRBEE",
+    "url": "https://github.com/noahlorinczcomi/MRBEE"
+  },
+  {
+    "package": "MRchecks",
+    "url": "https://github.com/jalabrecque/MRchecks"
+  },
+  {
+    "package": "mrclust",
+    "url": "https://github.com/cnfoley/mrclust"
+  },
+  {
+    "package": "MRcML",
+    "url": "https://github.com/xue-hr/MRcML"
+  },
+  {
+    "package": "MRInstruments",
+    "url": "https://github.com/MRCIEU/MRInstruments"
+  },
+  {
+    "package": "mrlocus",
+    "url": "https://github.com/thelovelab/mrlocus/"
+  },
   {
     "package": "MrMediation",
     "url": "https://github.com/ZixuanWu1/MrMediation"
   },
+  {
+    "package": "MRMiSTERI",
+    "url": "https://github.com/remlapmot/MRMiSTERI",
+    "subdir": "MRMiSTERI",
+    "branch": "suggestions"
+  },
+  {
+    "package": "MRMix",
+    "url": "https://github.com/gqi/MRMix"
+  },
+  {
+    "package": "MRPATH",
+    "url": "https://github.com/danieliong/MRPATH"
+  },
+  {
+    "package": "mrsensemakr",
+    "url": "https://github.com/carloscinelli/mrsensemakr"
+  },
+  {
+    "package": "MRTool",
+    "url": "https://github.com/askieslinger/MRTool"
+  },
+  {
+    "package": "MVMR",
+    "url": "https://github.com/WSpiller/MVMR"
+  },
+  {
+    "package": "MVMRcML",
+    "url": "https://github.com/ZhaotongL/MVMR-cML"
+  },
+  {
+    "package": "navmix",
+    "url": "https://github.com/aj-grant/navmix"
+  },
+  {
+    "package": "nlmr",
+    "url": "https://github.com/jrs95/nlmr"
+  },
+  {
+    "package": "OneSampleMR",
+    "url": "https://github.com/remlapmot/OneSampleMR",
+    "branch": "*release"
+  },
+  {
+    "package": "RadialMR",
+    "url": "https://github.com/WSpiller/RadialMR"
+  },
+  {
+    "package": "RFQT",
+    "url": "https://github.com/HDTian/RFQT"
+  },
+  {
+    "package": "RMVMR",
+    "url": "https://github.com/WSpiller/RMVMR"
+  },
+  {
+    "package": "simmrd",
+    "url": "https://github.com/noahlorinczcomi/simmrd"
+  },
+  {
+    "package": "SlopeHunter",
+    "url": "https://github.com/Osmahmoud/SlopeHunter"
+  },
+  {
+    "package": "SUMnlmr",
+    "url": "https://github.com/amymariemason/SUMnlmr"
+  },
+  {
+    "package": "tmsens",
+    "url": "https://github.com/dea-hazewinkel/tmsens"
+  },
+  {
+    "package": "TwoSampleMR",
+    "url": "https://github.com/MRCIEU/TwoSampleMR"
+  },
+  {
+    "package": "varGWASR",
+    "url": "https://github.com/MRCIEU/varGWASR"
+  },
+  {
+    "package": "winnerscurse",
+    "url": "https://github.com/amandaforde/winnerscurse"
+  }
 ]
