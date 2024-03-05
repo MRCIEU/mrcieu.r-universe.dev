@@ -191,7 +191,8 @@
   },
   {
     "package": "MRPATH",
-    "url": "https://github.com/danieliong/MRPATH"
+    "url": "https://github.com/remlapmot/MRPATH",
+    "branch": "suggestions"
   },
   {
     "package": "mrsensemakr",
