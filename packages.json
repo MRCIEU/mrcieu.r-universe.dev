@@ -161,6 +161,11 @@
     "url": "https://github.com/xue-hr/MRcML"
   },
   {
+    "package": "mrcovreg",
+    "url": "https://github.com/remlapmot/mrcovreg",
+    "branch": "suggestions"
+  },
+  {
     "package": "MRInstruments",
     "url": "https://github.com/MRCIEU/MRInstruments"
   },
