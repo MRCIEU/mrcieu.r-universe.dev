@@ -98,6 +98,10 @@
     "url": "https://github.com/MRCIEU/ieugwasr"
   },
   {
+    "package": "jlst",
+    "url": "https://github.com/jrs95/jlst"
+  },
+  {
     "package": "journalclub",
     "url": "https://github.com/perishky/journalclub"
   },
