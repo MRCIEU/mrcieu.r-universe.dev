@@ -176,7 +176,8 @@
   },
   {
     "package": "MrMediation",
-    "url": "https://github.com/ZixuanWu1/MrMediation"
+    "url": "https://github.com/remlapmot/MrMediation",
+    "branch": "suggestions"
   },
   {
     "package": "MRMiSTERI",
