@@ -110,6 +110,10 @@
     "url": "https://github.com/LizaDarrous/lhcMR"
   },
   {
+    "package": "lmrse",
+    "url": "https://github.com/jrs95/lmrse"
+  },
+  {
     "package": "MendelianRandomization",
     "url": "https://github.com/sb452/MendelianRandomization"
   },
