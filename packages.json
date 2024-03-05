@@ -45,6 +45,11 @@
     "url": "https://github.com/perishky/ewaff"
   },
   {
+    "package": "finemapr",
+    "url": "https://github.com/remlapmot/finemapr",
+    "branch": "suggestions"
+  },
+  {
     "package": "genepi.utils",
     "url": "https://github.com/nicksunderland/genepi.utils"
   },
