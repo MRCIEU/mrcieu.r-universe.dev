@@ -119,7 +119,8 @@
   },
   {
     "package": "metaboprep",
-    "url": "https://github.com/MRCIEU/metaboprep"
+    "url": "https://github.com/remlapmot/metaboprep",
+    "branch": "suggestions"
   },
   {
     "package": "midoc",
