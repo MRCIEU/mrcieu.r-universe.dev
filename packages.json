@@ -253,6 +253,10 @@
     "url": "https://github.com/dea-hazewinkel/tmsens"
   },
   {
+    "package": "tryx",
+    "url": "https://github.com/explodecomputer/tryx"
+  },
+  {
     "package": "TwoSampleMR",
     "url": "https://github.com/MRCIEU/TwoSampleMR"
   },
