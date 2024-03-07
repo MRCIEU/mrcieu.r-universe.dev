@@ -41,10 +41,6 @@
     "url": "https://github.com/MRCIEU/epigraphdb-r"
   },
   {
-    "package": "ewaff",
-    "url": "https://github.com/perishky/ewaff"
-  },
-  {
     "package": "finemapr",
     "url": "https://github.com/remlapmot/finemapr",
     "branch": "suggestions"
