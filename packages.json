@@ -50,6 +50,10 @@
     "url": "https://github.com/MRCIEU/genetics.binaRies"
   },
   {
+    "package": "geni.plots",
+    "url": "https://github.com/jrs95/geni.plots"
+  },
+  {
     "package": "GenomicSEM",
     "url": "https://github.com/GenomicSEM/GenomicSEM"
   },
