@@ -1,7 +1,8 @@
 [
   {
     "package": "alspac",
-    "url": "https://github.com/explodecomputer/alspac"
+    "url": "https://github.com/remlapmot/alspac",
+    "branch": "suggestions"
   },
   {
     "package": "BESIDEMR",
