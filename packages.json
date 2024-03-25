@@ -52,8 +52,7 @@
   },
   {
     "package": "geni.plots",
-    "url": "https://github.com/remlapmot/geni.plots",
-    "branch": "suggestions"
+    "url": "https://github.com/jrs95/geni.plots"
   },
   {
     "package": "GenomicSEM",
