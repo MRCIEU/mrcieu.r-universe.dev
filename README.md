@@ -27,6 +27,8 @@ install.packages(
 
 ### Ubuntu Jammy Jellyfish
 
+#### Ubuntu Jammy Jellyfish using R through RStudio Desktop or RStudio Server
+
 For Ubuntu Jammy Jellyfish users running R through RStudio Desktop or RStudio Server the installation code is
 
 ```r
@@ -42,6 +44,8 @@ install.packages(
 ```
 
 For Ubuntu Jammy Jellyfish users running R in the Terminal first amend the `HTTPUserAgent` option, as described in the following blog [post](https://tshafer.com/blog/2023/07/posit-package-manager-linux), and then run the Linux installation code above. This is in order to obtain binary packages from the Posit Public Package Manager. If the `HTTPUserAgent` option is not amended it seems that source rather than binary packages are obtained for the Imports dependency packages. So for this case the full installation code is
+#### Ubuntu Jammy Jellyfish using R in a shell
+
 
 ```r
 # Installation code for Ubuntu Jammy Jellyfish users running R in the Terminal
