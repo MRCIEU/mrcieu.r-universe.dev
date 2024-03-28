@@ -201,6 +201,10 @@
     "branch": "suggestions"
   },
   {
+    "package": "MRSamePopTest",
+    "url": "https://github.com/bar-woolf/MRSamePopTest"
+  },
+  {
     "package": "mrsensemakr",
     "url": "https://github.com/carloscinelli/mrsensemakr"
   },
