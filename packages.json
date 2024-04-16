@@ -83,6 +83,10 @@
     "url": "https://github.com/MRCIEU/gwasvcf"
   },
   {
+    "package": "hyprcoloc",
+    "url": "https://github.com/jrs95/hyprcoloc"
+  },
+  {
     "package": "ieugwasr",
     "url": "https://github.com/MRCIEU/ieugwasr"
   },
