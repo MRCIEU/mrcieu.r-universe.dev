@@ -84,8 +84,7 @@
   },
   {
     "package": "hyprcoloc",
-    "url": "https://github.com/jrs95/hyprcoloc",
-    "branch": "v0.0.1"
+    "url": "https://github.com/jrs95/hyprcoloc"
   },
   {
     "package": "ieugwasr",
