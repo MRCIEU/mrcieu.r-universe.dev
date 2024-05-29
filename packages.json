@@ -201,6 +201,10 @@
     "branch": "suggestions"
   },
   {
+    "package": "MRPRESSO",
+    "url": "https://github.com/rondolab/MR-PRESSO"
+  },
+  {
     "package": "mrsensemakr",
     "url": "https://github.com/carloscinelli/mrsensemakr"
   },
