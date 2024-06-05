@@ -68,49 +68,6 @@ install.packages(
 )
 ```
 
-### Ubuntu Jammy Jellyfish using R 4.3
-
-#### Ubuntu Jammy Jellyfish using R through RStudio Desktop or RStudio Server
-
-For Ubuntu Jammy Jellyfish users running R through RStudio Desktop or RStudio Server the installation code is
-
-```r
-# Installation code for Ubuntu Jammy Jellyfish users in RStudio Desktop or Server
-install.packages(
-  'TwoSampleMR',
-  repos = c(
-    'https://mrcieu.r-universe.dev/bin/linux/jammy/4.3/',
-    'https://p3m.dev/cran/__linux__/jammy/latest',
-    'https://cloud.r-project.org'
-  )
-)
-```
-
-#### Ubuntu Jammy Jellyfish using R in a shell
-
-For Ubuntu Jammy Jellyfish users running R in a shell first amend the `HTTPUserAgent` option, as described in the following blog [post](https://tshafer.com/blog/2023/07/posit-package-manager-linux), and then run the Linux installation code above. This is in order to obtain binary packages from the Posit Public Package Manager. If the `HTTPUserAgent` option is not amended it seems that source rather than binary packages are obtained for the Imports dependency packages. So for this case the full installation code is
-
-```r
-# Installation code for Ubuntu Jammy Jellyfish users running R in the Terminal
-options(HTTPUserAgent = sprintf(
-  "R/%s R (%s)",
-  getRversion(),
-  paste(getRversion(),
-        R.version["platform"],
-        R.version["arch"],
-        R.version["os"])
-))
-
-install.packages(
-  'TwoSampleMR',
-  repos = c(
-    'https://mrcieu.r-universe.dev/bin/linux/jammy/4.3/',
-    'https://p3m.dev/cran/__linux__/jammy/latest',
-    'https://cloud.r-project.org'
-  )
-)
-```
-
 ### WebR
 
 WASM binaries for [WebR](https://docs.r-wasm.org/webr/latest/) users are available with the code below. Note that currently not all packages are available for WebR.
