@@ -91,6 +91,10 @@
     "url": "https://github.com/MRCIEU/ieugwasr"
   },
   {
+    "package": "indexevent",
+    "url": "https://github.com/DudbridgeLab/indexevent"
+  },
+  {
     "package": "jlst",
     "url": "https://github.com/jrs95/jlst"
   },
