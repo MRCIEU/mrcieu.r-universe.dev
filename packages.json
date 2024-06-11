@@ -99,6 +99,10 @@
     "url": "https://github.com/MRCIEU/ieugwasr"
   },
   {
+    "package": "iGasso",
+    "url": "https://github.com/cran/iGasso"
+  },
+  {
     "package": "indexevent",
     "url": "https://github.com/DudbridgeLab/indexevent"
   },
