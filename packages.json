@@ -209,6 +209,10 @@
     "branch": "suggestions"
   },
   {
+    "package": "MRPC",
+    "url": "https://github.com/audreyqyfu/mrpc"
+  },
+  {
     "package": "MRPRESSO",
     "url": "https://github.com/rondolab/MR-PRESSO"
   },
