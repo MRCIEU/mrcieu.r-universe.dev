@@ -95,6 +95,10 @@
     "url": "https://github.com/DudbridgeLab/indexevent"
   },
   {
+    "package": "ivmodel",
+    "url": "https://github.com/hyunseungkang/ivmodel"
+  },
+  {
     "package": "jlst",
     "url": "https://github.com/jrs95/jlst"
   },
