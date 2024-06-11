@@ -221,6 +221,10 @@
     "url": "https://github.com/askieslinger/MRTool"
   },
   {
+    "package": "MRZero",
+    "url": "https://github.com/cran/MRZero"
+  },
+  {
     "package": "MVMR",
     "url": "https://github.com/WSpiller/MVMR"
   },
