@@ -67,6 +67,10 @@
     "url": "https://github.com/jianyanglab/gsmr"
   },
   {
+    "package": "gsmr2",
+    "url": "https://github.com/jianyanglab/gsmr2"
+  },
+  {
     "package": "GWASBrewer",
     "url": "https://github.com/jean997/GWASBrewer"
   },
