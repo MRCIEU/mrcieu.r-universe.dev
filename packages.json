@@ -270,6 +270,10 @@
     "url": "https://github.com/noahlorinczcomi/simmrd"
   },
   {
+    "package": "sisVIVE",
+    "url": "https://github.com/cran/sisVIVE"
+  },
+  {
     "package": "SlopeHunter",
     "url": "https://github.com/Osmahmoud/SlopeHunter"
   },
