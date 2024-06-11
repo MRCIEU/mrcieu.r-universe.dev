@@ -63,6 +63,10 @@
     "url": "https://github.com/jingshuw/GRAPPLE"
   },
   {
+    "package": "gsmr",
+    "url": "https://github.com/jianyanglab/gsmr"
+  },
+  {
     "package": "GWASBrewer",
     "url": "https://github.com/jean997/GWASBrewer"
   },
