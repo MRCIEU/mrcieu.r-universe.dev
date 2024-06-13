@@ -35,6 +35,10 @@
     "url": "https://github.com/MRCIEU/CheckSumStats"
   },
   {
+    "package": "cit",
+    "url": "https://github.com/USCbiostats/cit"
+  },
+  {
     "package": "CIVMR",
     "url": "https://github.com/LaiJiang/CIVMR"
   },
