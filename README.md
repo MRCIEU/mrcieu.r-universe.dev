@@ -4,7 +4,9 @@
 [![:registry status badge](https://mrcieu.r-universe.dev/badges/:registry)](https://github.com/r-universe/mrcieu/actions/workflows/sync.yml)
 [![:total status badge](https://mrcieu.r-universe.dev/badges/:total)](https://mrcieu.r-universe.dev/)
 
-This is the repo specifying which R packages contribute to <https://mrcieu.r-universe.dev/>.
+This is the registry repo specifying which R packages contribute to <https://mrcieu.r-universe.dev/>.
+
+The corresponding source universe repo, which is managed by r-universe, is at <https://github.com/r-universe/mrcieu>.
 
 ## How to install binary R packages from the MRCIEU R-universe
 
@@ -95,7 +97,5 @@ To add/remove packages please edit the *packages.json* file in this repository (
         "url": "https://github.com/MRCIEU/TwoSampleMR"
     }
 ```
-
-(The corresponding source universe repo, which is managed by r-universe, is at <https://github.com/r-universe/mrcieu>.)
 
 The instructions about how to setup on r-universe.dev are [here](https://ropensci.org/blog/2021/06/22/setup-runiverse/) and [here](https://github.com/r-universe-org/help#readme).
