@@ -47,6 +47,11 @@
     "url": "https://github.com/MRCIEU/epigraphdb-r"
   },
   {
+    "package": "EpiViz",
+    "url": "https://github.com/mattlee821/EpiViz",
+    "subdir": "R_package"
+  },
+  {
     "package": "finemapr",
     "url": "https://github.com/remlapmot/finemapr",
     "branch": "suggestions"
