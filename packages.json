@@ -43,6 +43,10 @@
     "url": "https://github.com/LaiJiang/CIVMR"
   },
   {
+    "package": "DRMR",
+    "url": "https://github.com/HDTian/DRMR"
+  },
+  {
     "package": "epigraphdb",
     "url": "https://github.com/MRCIEU/epigraphdb-r"
   },
