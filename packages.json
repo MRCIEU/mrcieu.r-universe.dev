@@ -211,6 +211,10 @@
     "branch": "suggestions"
   },
   {
+    "package": "MrDAG",
+    "url": "https://github.com/lb664/MrDAG"
+  },
+  {
     "package": "MRInstruments",
     "url": "https://github.com/MRCIEU/MRInstruments"
   },
