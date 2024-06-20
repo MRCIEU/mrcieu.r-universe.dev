@@ -288,6 +288,10 @@
     "branch": "*release"
   },
   {
+    "package": "prop.coloc",
+    "url": "https://github.com/ash-res/prop-coloc"
+  },
+  {
     "package": "RadialMR",
     "url": "https://github.com/WSpiller/RadialMR"
   },
