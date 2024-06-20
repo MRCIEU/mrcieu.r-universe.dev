@@ -324,6 +324,10 @@
     "url": "https://github.com/explodecomputer/tryx"
   },
   {
+    "package": "TVMR",
+    "url": "https://github.com/HDTian/TVMR"
+  },
+  {
     "package": "TwoSampleMR",
     "url": "https://github.com/MRCIEU/TwoSampleMR"
   },
