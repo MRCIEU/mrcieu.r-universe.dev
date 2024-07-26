@@ -296,6 +296,10 @@
     "branch": "*release"
   },
   {
+    "package": "PPMR",
+    "url": "https://github.com/umich-biostatistics/PPMR"
+  },
+  {
     "package": "prop.coloc",
     "url": "https://github.com/ash-res/prop-coloc"
   },
