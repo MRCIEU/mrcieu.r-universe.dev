@@ -201,6 +201,10 @@
     "url": "https://github.com/noahlorinczcomi/MRBEE"
   },
   {
+    "package": "mrbma",
+    "url": "https://github.com/mglev1n/mrbma"
+  },
+  {
     "package": "MRchecks",
     "url": "https://github.com/jalabrecque/MRchecks"
   },
