@@ -258,6 +258,10 @@
     "url": "https://github.com/rondolab/MR-PRESSO"
   },
   {
+    "package": "mrSampleOverlap",
+    "url": "https://github.com/mglev1n/mrSampleOverlap"
+  },
+  {
     "package": "mrsensemakr",
     "url": "https://github.com/carloscinelli/mrsensemakr"
   },
