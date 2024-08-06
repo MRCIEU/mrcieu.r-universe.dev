@@ -42,6 +42,11 @@
     "url": "https://github.com/LaiJiang/CIVMR"
   },
   {
+    "package": "ColliderBias",
+    "url": "https://github.com/SiyangCai/ColliderBias",
+    "subdir": "ColliderBias"
+  },
+  {
     "package": "DRMR",
     "url": "https://github.com/HDTian/DRMR"
   },
