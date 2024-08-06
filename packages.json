@@ -43,8 +43,8 @@
   },
   {
     "package": "ColliderBias",
-    "url": "https://github.com/SiyangCai/ColliderBias",
-    "subdir": "ColliderBias"
+    "url": "https://github.com/remlapmot/ColliderBias",
+    "branch": "suggestions"
   },
   {
     "package": "DRMR",
