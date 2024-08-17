@@ -298,8 +298,7 @@
   },
   {
     "package": "OneSampleMR",
-    "url": "https://github.com/remlapmot/OneSampleMR",
-    "branch": "*release"
+    "url": "https://github.com/remlapmot/OneSampleMR"
   },
   {
     "package": "PPMR",
