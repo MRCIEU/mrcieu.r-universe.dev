@@ -317,10 +317,6 @@
     "url": "https://github.com/WSpiller/RMVMR"
   },
   {
-    "package": "rstan",
-    "url": "https://github.com/cran/rstan"
-  },
-  {
     "package": "simmrd",
     "url": "https://github.com/noahlorinczcomi/simmrd"
   },
