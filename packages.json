@@ -313,10 +313,6 @@
     "url": "https://github.com/HDTian/RFQT"
   },
   {
-      "package": "rjags",
-      "url": "https://github.com/cran/rjags"
-  },
-  {
     "package": "RMVMR",
     "url": "https://github.com/WSpiller/RMVMR"
   },
