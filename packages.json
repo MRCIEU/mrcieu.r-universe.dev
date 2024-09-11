@@ -111,6 +111,10 @@
     "url": "https://github.com/MRCIEU/gwasvcf"
   },
   {
+    "package": "hdi",
+    "url": "https://github.com/cran/hdi"
+  },
+  {
     "package": "ieugwasr",
     "url": "https://github.com/MRCIEU/ieugwasr"
   },
