@@ -317,6 +317,10 @@
     "url": "https://github.com/WSpiller/RMVMR"
   },
   {
+    "package": "screening",
+    "url": "https://github.com/wwrechard/screening"
+  },
+  {
     "package": "simmrd",
     "url": "https://github.com/noahlorinczcomi/simmrd"
   },
