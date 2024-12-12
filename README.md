@@ -99,3 +99,9 @@ To add/remove packages please edit the *packages.json* file in this repository (
 ```
 
 The instructions about how to setup on r-universe.dev are [here](https://ropensci.org/blog/2021/06/22/setup-runiverse/) and [here](https://github.com/r-universe-org/help#readme).
+
+To check _packages.json_ is correctly formatted you can run the following locally (you will need [`uv`](https://docs.astral.sh/uv/getting-started/installation/) installed). There is also a GitHub actions workflow which runs.
+
+```sh
+just check
+```
