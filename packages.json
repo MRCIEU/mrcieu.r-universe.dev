@@ -63,6 +63,10 @@
     "branch": "suggestions"
   },
   {
+      "package": "FLOWMR",
+      "url": "https://github.com/ZixuanWu1/FLOW-MR"
+  },
+  {
     "package": "genepi.utils",
     "url": "https://github.com/nicksunderland/genepi.utils"
   },
@@ -239,10 +243,6 @@
   {
     "package": "mrlocus",
     "url": "https://github.com/thelovelab/mrlocus/"
-  },
-  {
-    "package": "MrMediation",
-    "url": "https://github.com/ZixuanWu1/MrMediation"
   },
   {
     "package": "MRMiSTERI",
