@@ -324,6 +324,10 @@
     "url": "https://github.com/WSpiller/RMVMR"
   },
   {
+    "package": "rsnps",
+    "url": "https://github.com/ropensci/rsnps"
+  },
+  {
     "package": "screening",
     "url": "https://github.com/wwrechard/screening"
   },
