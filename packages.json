@@ -177,7 +177,8 @@
   },
   {
     "package": "mr.raps",
-    "url": "https://github.com/qingyuanzhao/mr.raps"
+    "url": "https://github.com/remlapmot/mr.raps",
+    "branch": "suggestions"
   },
   {
     "package": "MR.RGM",
