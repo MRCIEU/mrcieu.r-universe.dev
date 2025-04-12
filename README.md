@@ -31,7 +31,7 @@ On Windows, binary packages are available for the release, development, and prev
 
 On macOS, binary packages are available for the release and previous versions of R.
 
-### Ubuntu Noble Numbat using R-release (version 4.4.#)
+### Ubuntu Noble Numbat using R-release (version 4.5.#)
 
 #### Ubuntu Noble Numbat using R through RStudio Desktop or RStudio Server
 
@@ -42,7 +42,7 @@ For Ubuntu Noble Numbat users running R through RStudio Desktop or RStudio Serve
 install.packages(
   'TwoSampleMR',
   repos = c(
-    'https://mrcieu.r-universe.dev/bin/linux/noble/4.4/',
+    'https://mrcieu.r-universe.dev/bin/linux/noble/4.5/',
     'https://p3m.dev/cran/__linux__/noble/latest',
     'https://cloud.r-project.org'
   )
@@ -67,16 +67,12 @@ options(HTTPUserAgent = sprintf(
 install.packages(
   'TwoSampleMR',
   repos = c(
-    'https://mrcieu.r-universe.dev/bin/linux/noble/4.4/',
+    'https://mrcieu.r-universe.dev/bin/linux/noble/4.5/',
     'https://p3m.dev/cran/__linux__/noble/latest',
     'https://cloud.r-project.org'
   )
 )
 ```
-
-### Ubuntu Noble Numbat using R-devel (version 4.5.#)
-
-The installation code is the same as in the previous section but amend the r-universe URL to `https://mrcieu.r-universe.dev/bin/linux/noble/4.5/`.
 
 ### WebR
 
