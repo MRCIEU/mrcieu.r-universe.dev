@@ -31,9 +31,9 @@ On Windows, binary packages are available for the release, development, and prev
 
 On macOS, binary packages are available for the release and previous versions of R.
 
-### Ubuntu Noble Numbat using R-release (version 4.5.#)
+### Ubuntu Linux Noble Numbat using R-release (version 4.5.#)
 
-#### Ubuntu Noble Numbat using R through RStudio Desktop or RStudio Server
+#### Ubuntu Noble Numbat x86_64 using R through RStudio Desktop or RStudio Server
 
 For Ubuntu Noble Numbat users running R through RStudio Desktop or RStudio Server the installation code is
 
@@ -42,14 +42,14 @@ For Ubuntu Noble Numbat users running R through RStudio Desktop or RStudio Serve
 install.packages(
   'TwoSampleMR',
   repos = c(
-    'https://mrcieu.r-universe.dev/bin/linux/noble/4.5/',
+    'https://mrcieu.r-universe.dev/bin/linux/noble-x86_64/4.5/',
     'https://p3m.dev/cran/__linux__/noble/latest',
     'https://cloud.r-project.org'
   )
 )
 ```
 
-#### Ubuntu Noble Numbat using R in a shell
+#### Ubuntu Noble Numbat x86_64 using R in a shell
 
 For Ubuntu Noble Numbat users running R in a shell first amend the `HTTPUserAgent` option, as described in the following blog [post](https://tshafer.com/blog/2023/07/posit-package-manager-linux), and then run the Linux installation code above. This is in order to obtain binary packages from the Posit Public Package Manager. If the `HTTPUserAgent` option is not amended it seems that source rather than binary packages are obtained for the Imports dependency packages. So for this case the full installation code is
 
@@ -67,8 +67,23 @@ options(HTTPUserAgent = sprintf(
 install.packages(
   'TwoSampleMR',
   repos = c(
-    'https://mrcieu.r-universe.dev/bin/linux/noble/4.5/',
+    'https://mrcieu.r-universe.dev/bin/linux/noble-x86_64/4.5/',
     'https://p3m.dev/cran/__linux__/noble/latest',
+    'https://cloud.r-project.org'
+  )
+)
+```
+
+#### Ubuntu Noble Numbat ARM
+
+For Ubuntu Linux on ARM users please use
+
+```r
+# Installation code for Ubuntu Noble Numbat users in RStudio Desktop or Server
+install.packages(
+  'TwoSampleMR',
+  repos = c(
+    'https://mrcieu.r-universe.dev/bin/linux/noble-aarch64/4.5/',
     'https://cloud.r-project.org'
   )
 )
