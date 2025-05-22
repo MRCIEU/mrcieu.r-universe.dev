@@ -83,6 +83,10 @@
     "url": "https://github.com/GenomicSEM/GenomicSEM"
   },
   {
+    "package": "gpmapr",
+    "url": "https://github.com/MRCIEU/gpmapr"
+  },
+  {
     "package": "GRAPPLE",
     "url": "https://github.com/jingshuw/GRAPPLE"
   },
