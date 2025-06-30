@@ -160,8 +160,8 @@
   },
   {
     "package": "metaboprep",
-    "url": "https://github.com/remlapmot/metaboprep",
-    "branch": "suggestions"
+    "url": "https://github.com/MRCIEU/metaboprep",
+    "branch": "v2_development"
   },
   {
     "package": "midoc",
