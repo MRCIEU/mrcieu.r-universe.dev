@@ -360,6 +360,10 @@
     "url": "https://github.com/dea-hazewinkel/tmsens"
   },
   {
+    "package": "triangulate",
+    "url": "https://github.com/mcguinlu/triangulate"
+  },
+  {
     "package": "tryx",
     "url": "https://github.com/explodecomputer/tryx"
   },
