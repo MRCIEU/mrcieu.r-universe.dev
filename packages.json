@@ -332,6 +332,11 @@
     "url": "https://github.com/WSpiller/RMVMR"
   },
   {
+    "package": "robvis",
+    "url": "https://github.com/remlapmot/robvis",
+    "branch": "suggestions"
+  },
+  {
     "package": "rsnps",
     "url": "https://github.com/ropensci/rsnps"
   },
