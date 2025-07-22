@@ -42,8 +42,22 @@ For Ubuntu Noble Numbat users running R through RStudio Desktop or RStudio Serve
 install.packages(
   'TwoSampleMR',
   repos = c(
-    'https://mrcieu.r-universe.dev/bin/linux/noble-x86_64/4.5/',
+    'https://mrcieu.r-universe.dev/bin/linux/noble-x86_64/4.5',
     'https://p3m.dev/cran/__linux__/noble/latest',
+    'https://cloud.r-project.org'
+  )
+)
+```
+
+Or you can obtain CRAN binary packages from r-universe, e.g.,
+
+```r
+# Installation code for Ubuntu Noble Numbat users in either RStudio Desktop or Server or a terminal session
+install.packages(
+  'TwoSampleMR',
+  repos = c(
+    'https://mrcieu.r-universe.dev/bin/linux/noble-x86_64/4.5',
+    'https://cran.r-universe.dev/bin/linux/noble-x86_64/4.5',
     'https://cloud.r-project.org'
   )
 )
@@ -67,7 +81,7 @@ options(HTTPUserAgent = sprintf(
 install.packages(
   'TwoSampleMR',
   repos = c(
-    'https://mrcieu.r-universe.dev/bin/linux/noble-x86_64/4.5/',
+    'https://mrcieu.r-universe.dev/bin/linux/noble-x86_64/4.5',
     'https://p3m.dev/cran/__linux__/noble/latest',
     'https://cloud.r-project.org'
   )
@@ -83,7 +97,8 @@ For Ubuntu Linux on ARM users please use
 install.packages(
   'TwoSampleMR',
   repos = c(
-    'https://mrcieu.r-universe.dev/bin/linux/noble-aarch64/4.5/',
+    'https://mrcieu.r-universe.dev/bin/linux/noble-aarch64/4.5',
+    'https://cran.r-universe.dev/bin/linux/noble-aarch64/4.5',
     'https://cloud.r-project.org'
   )
 )
