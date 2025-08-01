@@ -67,6 +67,10 @@
       "url": "https://github.com/ZixuanWu1/FLOW-MR"
   },
   {
+      "package": "gassocplot",
+      "url": "https://github.com/jrs95/gassocplot"
+  },
+  {
     "package": "genepi.utils",
     "url": "https://github.com/nicksunderland/genepi.utils"
   },
