@@ -68,7 +68,8 @@
   },
   {
       "package": "gassocplot",
-      "url": "https://github.com/jrs95/gassocplot"
+      "url": "https://github.com/remlapmot/gassocplot",
+      "branch": "suggestions"
   },
   {
        "package": "gassocplot2",
