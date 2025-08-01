@@ -108,7 +108,8 @@
   },
   {
     "package": "gwasglue",
-    "url": "https://github.com/MRCIEU/gwasglue"
+    "url": "https://github.com/remlapmot/gwasglue",
+    "branch": "fixes"
   },
   {
     "package": "gwasglue2",
