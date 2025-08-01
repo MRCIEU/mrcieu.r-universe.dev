@@ -72,7 +72,8 @@
   },
   {
        "package": "gassocplot2",
-       "url": "https://github.com/jrs95/gassocplot2"
+       "url": "https://github.com/remlapmot/gassocplot2",
+       "branch": "fixes"
   },
   {
     "package": "genepi.utils",
