@@ -71,6 +71,10 @@
       "url": "https://github.com/jrs95/gassocplot"
   },
   {
+       "package": "gassocplot2",
+       "url": "https://github.com/jrs95/gassocplot2"
+  },
+  {
     "package": "genepi.utils",
     "url": "https://github.com/nicksunderland/genepi.utils"
   },
