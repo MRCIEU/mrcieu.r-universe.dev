@@ -163,7 +163,8 @@
   },
   {
     "package": "locuscomparer",
-    "url": "https://github.com/boxiangliu/locuscomparer"
+    "url": "https://github.com/remlapmot/locuscomparer",
+    "branch": "suggestions"
   },
   {
     "package": "MendelianRandomization",
