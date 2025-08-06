@@ -162,6 +162,10 @@
     "url": "https://github.com/jrs95/lmrse"
   },
   {
+    "package": "locuscomparer",
+    "url": "https://github.com/boxiangliu/locuscomparer"
+  },
+  {
     "package": "MendelianRandomization",
     "url": "https://github.com/cran/MendelianRandomization"
   },
