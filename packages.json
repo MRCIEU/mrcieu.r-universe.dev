@@ -193,7 +193,8 @@
   },
   {
     "package": "mr.raps",
-    "url": "https://github.com/qingyuanzhao/mr.raps"
+    "url": "https://github.com/qingyuanzhao/mr.raps",
+    "branch": "#17"
   },
   {
     "package": "MR.RGM",
