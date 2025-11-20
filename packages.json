@@ -172,8 +172,7 @@
   },
   {
     "package": "metaboprep",
-    "url": "https://github.com/MRCIEU/metaboprep",
-    "branch": "v2_development"
+    "url": "https://github.com/MRCIEU/metaboprep"
   },
   {
     "package": "midoc",
