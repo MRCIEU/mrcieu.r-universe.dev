@@ -283,6 +283,10 @@
     "url": "https://github.com/audreyqyfu/mrpc"
   },
   {
+    "package": "mrpipeline",
+    "url": "https://github.com/jwr-git/mrpipeline"
+  },
+  {
     "package": "MRPRESSO",
     "url": "https://github.com/rondolab/MR-PRESSO"
   },
