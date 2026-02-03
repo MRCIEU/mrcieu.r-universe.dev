@@ -54,8 +54,7 @@
   },
   {
     "package": "EpiViz",
-    "url": "https://github.com/mattlee821/EpiViz",
-    "subdir": "R_package"
+    "url": "https://github.com/mattlee821/EpiViz"
   },
   {
     "package": "finemapr",
