@@ -187,7 +187,8 @@
   },
   {
     "package": "mr.divw",
-    "url": "https://github.com/tye27/mr.divw"
+    "url": "https://github.com/remlapmot/mr.divw",
+    "branch": "suggestions"
   },
   {
     "package": "MR.LDP",
