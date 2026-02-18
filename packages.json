@@ -191,6 +191,11 @@
     "branch": "suggestions"
   },
   {
+    "package": "mr.genius",
+    "url": "https://github.com/remlapmot/mr.genius",
+    "branch": "suggestions"
+  },
+  {
     "package": "MR.LDP",
     "url": "https://github.com/QingCheng0218/MR.LDP"
   },
