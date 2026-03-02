@@ -8,6 +8,8 @@ This is the registry repo specifying which R packages contribute to <https://mrc
 
 The corresponding source universe repo, which is managed by r-universe, is at <https://github.com/r-universe/mrcieu>.
 
+The corresponding orgmetrics dashboard is published at the GitHub Pages address for this repo <https://mrcieu.github.io/mrcieu.r-universe.dev/>
+
 ## How to install binary R packages from the MRCIEU R-universe
 
 To install binary R packages from the MRCIEU R-universe, include the relevant URL in your `repos` list as shown below (alternatively you can set the `repos` option using `options(repos = c(...))` which you could do in your *.Rprofile* file).
