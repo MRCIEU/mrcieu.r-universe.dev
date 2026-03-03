@@ -29,6 +29,9 @@ jobs:
         with:
           use-public-rspm: true
 
+      - name: Install ctags
+        run: apt-get upgrade && apt-get install universal-ctags
+
       - uses: r-lib/actions/setup-r-dependencies@v2
         with:
           packages: |
