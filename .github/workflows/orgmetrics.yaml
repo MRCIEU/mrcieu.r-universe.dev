@@ -41,7 +41,7 @@ jobs:
             any::plotly
             any::shiny
             github::ropensci-review-tools/pkgmatch@main
-            github::ropensci-review-tools/orgmetrics@main
+            github::remlapmot/orgmetrics@add-more-branch-cases
         env:
           GITHUB_TOKEN: ${{ github.token }}
 
