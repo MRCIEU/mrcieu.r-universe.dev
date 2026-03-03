@@ -29,6 +29,9 @@ jobs:
         with:
           use-public-rspm: true
 
+      - name: Install ctags
+        run: sudo apt-get update && sudo apt-get install -y universal-ctags
+
       - uses: r-lib/actions/setup-r-dependencies@v2
         with:
           packages: |
@@ -41,9 +44,6 @@ jobs:
             github::remlapmot/orgmetrics@add-more-branch-cases
         env:
           GITHUB_TOKEN: ${{ github.token }}
-
-      - name: Install ctags
-        run: Rscript -e "pkgstats::ctags_install(); pkgstats::ctags_test()"
 
       - name: Orgmetrics deploy
         run: Rscript -e "options('rlib_message_verbosity'='verbose'); orgmetrics::orgmetrics_deploy_r_univ(url = 'https://github.com/${{ github.repository }}', aggregation_period = 365L)"
