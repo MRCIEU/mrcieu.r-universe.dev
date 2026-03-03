@@ -46,7 +46,7 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
 
       - name: Orgmetrics deploy
-        run: Rscript -e "options('rlib_message_verbosity'='verbose'); options(warn = 2); orgmetrics::orgmetrics_deploy_r_univ(url = 'https://github.com/${{ github.repository }}', aggregation_period = 365L)"
+        run: Rscript -e "options('rlib_message_verbosity'='verbose'); orgmetrics::orgmetrics_deploy_r_univ(url = 'https://github.com/${{ github.repository }}', aggregation_period = 365L)"
         env:
           R_CRAN_WEB: "https://cloud.r-project.org"
           GITHUB_TOKEN: ${{ github.token }}
