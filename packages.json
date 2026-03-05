@@ -179,7 +179,8 @@
   },
   {
     "package": "MR.Corr2",
-    "url": "https://github.com/QingCheng0218/MR.Corr2"
+    "url": "https://github.com/remlapmot/MR.Corr2",
+    "branch": "suggestions"
   },
   {
     "package": "MR.CUE",
