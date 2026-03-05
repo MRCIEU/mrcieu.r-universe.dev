@@ -309,7 +309,8 @@
   },
   {
     "package": "MRTool",
-    "url": "https://github.com/askieslinger/MRTool"
+    "url": "https://github.com/remlapmot/MRTool",
+    "branch": "suggestions"
   },
   {
     "package": "MRZero",
