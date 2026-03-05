@@ -354,7 +354,8 @@
   },
   {
     "package": "RFQT",
-    "url": "https://github.com/HDTian/RFQT"
+    "url": "https://github.com/remlapmot/RFQT",
+    "branch": "suggestions"
   },
   {
     "package": "RMVMR",
