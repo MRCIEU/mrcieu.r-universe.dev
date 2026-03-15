@@ -324,6 +324,10 @@
     "url": "https://github.com/WSpiller/MVMR"
   },
   {
+    "package": "MVMR.CUE",
+    "url": "https://github.com/QingCheng0218/MVMR.CUE"
+  },
+  {
     "package": "MVMRcML",
     "url": "https://github.com/ZhaotongL/MVMR-cML"
   },
