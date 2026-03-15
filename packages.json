@@ -361,6 +361,10 @@
     "branch": "suggestions"
   },
   {
+    "package": "RMR.ICP",
+    "url": "https://github.com/QingCheng0218/RMR.ICP"
+  },
+  {
     "package": "RMVMR",
     "url": "https://github.com/WSpiller/RMVMR"
   },
