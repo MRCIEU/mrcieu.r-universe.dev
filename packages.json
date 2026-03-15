@@ -98,7 +98,8 @@
   },
   {
     "package": "GRAPPLE",
-    "url": "https://github.com/jingshuw/GRAPPLE"
+    "url": "https://github.com/remlapmot/GRAPPLE",
+    "branch": "suggestions"
   },
   {
     "package": "gsmr",
