@@ -38,7 +38,8 @@
   },
   {
     "package": "CIVMR",
-    "url": "https://github.com/LaiJiang/CIVMR"
+    "url": "https://github.com/remlapmot/CIVMR",
+    "branch": "suggestions"
   },
   {
     "package": "ColliderBias",
