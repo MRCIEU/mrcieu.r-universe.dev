@@ -186,7 +186,8 @@
   },
   {
     "package": "MR.CUE",
-    "url": "https://github.com/QingCheng0218/MR.CUE"
+    "url": "https://github.com/remlapmot/MR.CUE",
+    "branch": "suggestions"
   },
   {
     "package": "mr.divw",
