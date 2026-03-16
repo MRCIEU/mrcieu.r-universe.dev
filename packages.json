@@ -368,7 +368,8 @@
   },
   {
     "package": "RMR.ICP",
-    "url": "https://github.com/QingCheng0218/RMR.ICP"
+    "url": "https://github.com/remlapmot/RMR.ICP",
+    "branch": "suggestions"
   },
   {
     "package": "RMVMR",
