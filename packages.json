@@ -326,7 +326,8 @@
   },
   {
     "package": "MVMR.CUE",
-    "url": "https://github.com/QingCheng0218/MVMR.CUE"
+    "url": "https://github.com/remlapmot/MVMR.CUE",
+    "branch": "suggestions"
   },
   {
     "package": "MVMRcML",
