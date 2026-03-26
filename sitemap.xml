@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://MRCIEU.github.io/mrcieu.r-universe.dev/repo.html</loc>
+    <lastmod>2026-03-26T00:56:17.317Z</lastmod>
+  </url>
+  <url>
     <loc>https://MRCIEU.github.io/mrcieu.r-universe.dev/models.html</loc>
-    <lastmod>2026-03-25T00:53:27.713Z</lastmod>
+    <lastmod>2026-03-26T00:56:17.317Z</lastmod>
   </url>
   <url>
     <loc>https://MRCIEU.github.io/mrcieu.r-universe.dev/contributor.html</loc>
-    <lastmod>2026-03-25T00:53:27.710Z</lastmod>
+    <lastmod>2026-03-26T00:56:17.315Z</lastmod>
   </url>
   <url>
     <loc>https://MRCIEU.github.io/mrcieu.r-universe.dev/index.html</loc>
-    <lastmod>2026-03-25T00:53:27.712Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MRCIEU.github.io/mrcieu.r-universe.dev/repo.html</loc>
-    <lastmod>2026-03-25T00:53:27.713Z</lastmod>
+    <lastmod>2026-03-26T00:56:17.317Z</lastmod>
   </url>
 </urlset>
