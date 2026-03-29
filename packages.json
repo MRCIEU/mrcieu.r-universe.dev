@@ -1,5 +1,10 @@
 [
   {
+    "package": "aciccomp2016",
+    "url": "https://github.com/vdorie/aciccomp",
+    "subdir": "2016"
+  },
+  {
     "package": "alspac",
     "url": "https://github.com/explodecomputer/alspac"
   },
@@ -127,6 +132,10 @@
     "url": "https://github.com/MRCIEU/gwasglue2"
   },
   {
+    "package": "gwasrapidd",
+    "url": "https://github.com/ramiromagno/gwasrapidd"
+  },
+  {
     "package": "gwasvcf",
     "url": "https://github.com/MRCIEU/gwasvcf"
   },
@@ -141,6 +150,10 @@
   {
     "package": "iGasso",
     "url": "https://github.com/cran/iGasso"
+  },
+  {
+    "package": "indexevent",
+    "url": "https://github.com/DudbridgeLab/indexevent"
   },
   {
     "package": "ivmodel",
@@ -350,12 +363,20 @@
     "url": "https://github.com/remlapmot/OneSampleMR"
   },
   {
+    "package": "pcaMethods",
+    "url": "https://github.com/hredestig/pcaMethods"
+  },
+  {
     "package": "PPMR",
     "url": "https://github.com/umich-biostatistics/PPMR"
   },
   {
     "package": "prop.coloc",
     "url": "https://github.com/ash-res/prop-coloc"
+  },
+  {
+    "package": "proxysnps",
+    "url": "https://github.com/slowkow/proxysnps"
   },
   {
     "package": "RadialMR",
