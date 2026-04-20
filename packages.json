@@ -359,6 +359,10 @@
     "url": "https://github.com/jrs95/nlmr"
   },
   {
+    "package": "omiprep",
+    "url": "https://github.com/mrcieu/omiprep"
+  },
+  {
     "package": "OneSampleMR",
     "url": "https://github.com/remlapmot/OneSampleMR"
   },
