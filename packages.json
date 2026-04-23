@@ -230,7 +230,8 @@
   },
   {
     "package": "mr.simss",
-    "url": "https://github.com/amandaforde/mr.simss"
+    "url": "https://github.com/amandaforde/mr.simss",
+    "branch": "refs/pull/1/head"
   },
   {
     "package": "MR2",
