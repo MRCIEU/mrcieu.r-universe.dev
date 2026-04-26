@@ -61,6 +61,9 @@ options(repos = c(
   CRAN = sprintf("https://packagemanager.posit.co/cran/latest/bin/linux/noble-%s/%s", arch, rv),
   runiverse = sprintf("https://mrcieu.r-universe.dev/bin/linux/noble-%s/%s/", arch, rv)
 ))
+
+# Then install say TwoSampleMR with
+install.packages("TwoSampleMR")
 ```
 
 As `ubuntu:latest` changes you would need to change the codename `noble` within this. For example, r-universe will likely swap to Resolute Raccoon (`resolute`) soon.
