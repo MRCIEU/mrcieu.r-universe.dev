@@ -72,6 +72,10 @@
       "url": "https://github.com/ZixuanWu1/FLOW-MR"
   },
   {
+    "package": "FusioMR",
+    "url": "https://github.com/kangbw702/FusioMR"
+  },
+  {
       "package": "gassocplot",
       "url": "https://github.com/remlapmot/gassocplot",
       "branch": "suggestions"
