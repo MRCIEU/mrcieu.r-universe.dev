@@ -107,6 +107,11 @@
     "url": "https://github.com/MRCIEU/gpmapr"
   },
   {
+    "package": "GraphMRcML",
+    "url": "https://github.com/ZhaotongL/GraphMRcML",
+    "branch": "refs/pull/2/head"
+  },
+  {
     "package": "GRAPPLE",
     "url": "https://github.com/remlapmot/GRAPPLE",
     "branch": "suggestions"
@@ -163,10 +168,6 @@
   {
     "package": "ivmodel",
     "url": "https://github.com/hyunseungkang/ivmodel"
-  },
-  {
-    "package": "GraphMRcML",
-    "url": "https://github.com/ZhaotongL/GraphMRcML"
   },
   {
     "package": "jlst",
