@@ -165,6 +165,10 @@
     "url": "https://github.com/hyunseungkang/ivmodel"
   },
   {
+    "package": "GraphMRcML",
+    "url": "https://github.com/ZhaotongL/GraphMRcML"
+  },
+  {
     "package": "jlst",
     "url": "https://github.com/jrs95/jlst"
   },
