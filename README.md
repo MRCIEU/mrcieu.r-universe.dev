@@ -79,7 +79,7 @@ install.packages('TwoSampleMR',
 
 ## Notes for developers adding/removing packages to the r-universe
 
-To add/remove packages please either use the justfile `add` receipe 
+To add/remove packages please either use the justfile `add` receipe (requires that [`just`](https://just.systems/) and [`uv`](https://docs.astral.sh/uv/getting-started/installation/) are installed)
 
 ```sh
 # required args only
