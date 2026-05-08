@@ -79,7 +79,7 @@ install.packages('TwoSampleMR',
 
 ## Notes for developers adding/removing packages to the r-universe
 
-To add/remove packages please either use the justfile `add` receipe (requires that [`just`](https://just.systems/) and [`uv`](https://docs.astral.sh/uv/getting-started/installation/) are installed)
+To add/remove packages please either use the justfile `add`/`remove` receipes (requires that [`just`](https://just.systems/) and [`uv`](https://docs.astral.sh/uv/getting-started/installation/) are installed)
 
 ```sh
 # required args only
@@ -93,6 +93,9 @@ just add mypackage https://github.com/user/repo "" subdir-name
 
 # with both
 just add mypackage https://github.com/user/repo mybranch mysubdir
+
+# to remove a package
+just remove mypackage
 ```
 
 or edit the *packages.json* file in this repository (<https://github.com/MRCIEU/mrcieu.r-universe.dev>). Each package requires at least 2 attributes; `"package"` and `"url"`. The `"url"` must be a Git repo (it doesn't have to be on GitHub, i.e., it could be on GitLab or other online Git server. And the package doesn't even have to be a package under the MRCIEU GitHub account). There is an optional attribute `"branch"` which can be specified if required, e.g., obtain the latest GitHub release by specifying `"branch": "*release"`. And there is an optional attribute `"subdir"` if the R package source code is in a subdirectory in the repository. As an example, the entry for the **TwoSampleMR** package is simply
