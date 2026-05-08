@@ -5,13 +5,16 @@ check:
 # add a package entry to packages.json in alphabetical order
 add pkgname url branch="" subdir="":
     #!/usr/bin/env -S uv run --python 3.14 python3
-    import json
+    import json, sys
     pkgname = "{{pkgname}}"
     url = "{{url}}"
     branch = "{{branch}}"
     subdir = "{{subdir}}"
     with open("packages.json") as f:
         packages = json.load(f)
+    if any(p["package"] == pkgname for p in packages):
+        print(f"Error: '{pkgname}' already exists in packages.json", file=sys.stderr)
+        sys.exit(1)
     entry = {"package": pkgname, "url": url}
     if branch:
         entry["branch"] = branch
