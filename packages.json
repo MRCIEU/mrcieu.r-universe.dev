@@ -72,8 +72,8 @@
     "branch": "suggestions-2"
   },
   {
-      "package": "FLOWMR",
-      "url": "https://github.com/ZixuanWu1/FLOW-MR"
+    "package": "FLOWMR",
+    "url": "https://github.com/ZixuanWu1/FLOW-MR"
   },
   {
     "package": "FusioMR",
@@ -81,14 +81,14 @@
     "branch": "refs/pull/1/head"
   },
   {
-      "package": "gassocplot",
-      "url": "https://github.com/remlapmot/gassocplot",
-      "branch": "suggestions"
+    "package": "gassocplot",
+    "url": "https://github.com/remlapmot/gassocplot",
+    "branch": "suggestions"
   },
   {
-       "package": "gassocplot2",
-       "url": "https://github.com/remlapmot/gassocplot2",
-       "branch": "fixes"
+    "package": "gassocplot2",
+    "url": "https://github.com/remlapmot/gassocplot2",
+    "branch": "fixes"
   },
   {
     "package": "genepi.utils",
@@ -231,16 +231,16 @@
     "url": "https://github.com/QingCheng0218/MR.LDP"
   },
   {
+    "package": "mr.pivw",
+    "url": "https://github.com/siqixu/mr.pivw"
+  },
+  {
     "package": "mr.raps",
     "url": "https://github.com/qingyuanzhao/mr.raps"
   },
   {
     "package": "MR.RGM",
     "url": "https://github.com/bitansa/MR.RGM"
-  },
-  {
-    "package": "mr.pivw",
-    "url": "https://github.com/siqixu/mr.pivw"
   },
   {
     "package": "mr.simss",
