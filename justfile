@@ -23,3 +23,19 @@ add pkgname url branch="" subdir="":
         json.dump(packages, f, indent=2)
         f.write("\n")
     print(f"Added {pkgname}")
+
+# remove a package entry from packages.json
+remove pkgname:
+    #!/usr/bin/env -S uv run --python 3.14 python3
+    import json, sys
+    pkgname = "{{pkgname}}"
+    with open("packages.json") as f:
+        packages = json.load(f)
+    filtered = [p for p in packages if p["package"] != pkgname]
+    if len(filtered) == len(packages):
+        print(f"Error: '{pkgname}' not found in packages.json", file=sys.stderr)
+        sys.exit(1)
+    with open("packages.json", "w") as f:
+        json.dump(filtered, f, indent=2)
+        f.write("\n")
+    print(f"Removed {pkgname}")
