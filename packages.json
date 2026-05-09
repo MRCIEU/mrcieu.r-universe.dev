@@ -63,10 +63,6 @@
     "url": "https://github.com/mattlee821/EpiViz"
   },
   {
-    "package": "esmr",
-    "url": "https://github.com/jean997/esmr"
-  },
-  {
     "package": "finemapr",
     "url": "https://github.com/remlapmot/finemapr",
     "branch": "suggestions-2"
