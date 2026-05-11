@@ -126,8 +126,8 @@
   },
   {
     "package": "GWASBrewer",
-    "url": "https://github.com/remlapmot/GWASBrewer",
-    "branch": "suggestions-3"
+    "url": "https://github.com/jean997/GWASBrewer",
+    "branch": "refs/pull/18/head"
   },
   {
     "package": "GwasDataImport",
