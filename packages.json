@@ -150,6 +150,10 @@
     "url": "https://github.com/MRCIEU/gwasvcf"
   },
   {
+    "package": "hapsim",
+    "url": "https://github.com/cran/hapsim"
+  },
+  {
     "package": "hdi",
     "url": "https://github.com/cran/hdi"
   },
