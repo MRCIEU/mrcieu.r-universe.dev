@@ -3,14 +3,13 @@ check:
     uv run --python 3.14 -m json.tool packages.json > /dev/null && echo "JSON check passed"
 
 # add a package entry to packages.json in alphabetical order
-add pkgname url branch="" subdir="":
+add url pkgname="" branch="" subdir="":
     #!/usr/bin/env -S uv run --python 3.14 python3
-    import json, sys
-    pkgname = "{{pkgname}}"
+    import json, re, sys
     url = "{{url}}"
-    import re
     if re.fullmatch(r'[^/]+/[^/]+', url):
         url = f"https://github.com/{url}"
+    pkgname = "{{pkgname}}" or url.rstrip("/").split("/")[-1]
     branch = "{{branch}}"
     subdir = "{{subdir}}"
     with open("packages.json") as f:
