@@ -8,6 +8,9 @@ add pkgname url branch="" subdir="":
     import json, sys
     pkgname = "{{pkgname}}"
     url = "{{url}}"
+    import re
+    if re.fullmatch(r'[^/]+/[^/]+', url):
+        url = f"https://github.com/{url}"
     branch = "{{branch}}"
     subdir = "{{subdir}}"
     with open("packages.json") as f:
