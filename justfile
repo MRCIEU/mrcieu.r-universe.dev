@@ -3,18 +3,18 @@ check:
     uv run --python 3.14 -m json.tool packages.json > /dev/null && echo "JSON check passed"
 
 # add a package entry to packages.json in alphabetical order
-[arg("pkgname", short="p")]
 [arg("branch", short="b")]
+[arg("pkgname", short="p")]
 [arg("subdir", short="s")]
 add url pkgname="" branch="" subdir="":
     #!/usr/bin/env -S uv run --python 3.14 python3
     import json, re, sys
-    url = "{{url}}"
+    url = "{{ url }}"
     if re.fullmatch(r'[^/]+/[^/]+', url):
         url = f"https://github.com/{url}"
-    pkgname = "{{pkgname}}" or url.rstrip("/").split("/")[-1]
-    branch = "{{branch}}"
-    subdir = "{{subdir}}"
+    pkgname = "{{ pkgname }}" or url.rstrip("/").split("/")[-1]
+    branch = "{{ branch }}"
+    subdir = "{{ subdir }}"
     with open("packages.json") as f:
         packages = json.load(f)
     if any(p["package"] == pkgname for p in packages):
@@ -36,7 +36,7 @@ add url pkgname="" branch="" subdir="":
 remove pkgname:
     #!/usr/bin/env -S uv run --python 3.14 python3
     import json, sys
-    pkgname = "{{pkgname}}"
+    pkgname = "{{ pkgname }}"
     with open("packages.json") as f:
         packages = json.load(f)
     filtered = [p for p in packages if p["package"] != pkgname]
