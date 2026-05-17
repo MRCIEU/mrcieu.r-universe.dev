@@ -3,6 +3,9 @@ check:
     uv run --python 3.14 -m json.tool packages.json > /dev/null && echo "JSON check passed"
 
 # add a package entry to packages.json in alphabetical order
+[arg("pkgname", short="p")]
+[arg("branch", short="b")]
+[arg("subdir", short="s")]
 add url pkgname="" branch="" subdir="":
     #!/usr/bin/env -S uv run --python 3.14 python3
     import json, re, sys
