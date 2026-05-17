@@ -81,19 +81,28 @@ install.packages('TwoSampleMR',
 
 To add/remove packages please either use the justfile `add`/`remove` receipes (requires that [`just`](https://just.systems/) and [`uv`](https://docs.astral.sh/uv/getting-started/installation/) are installed)
 
+<!-- just --usage add -->
+
+```plaintext
+# Add a package
+Usage: just add [OPTIONS] url
+
+Arguments:
+  url
+
+Options:
+  -p pkgname [default: ""]
+  -b branch [default: ""]
+  -s subdir [default: ""]
+```
+
+E.g.
+
 ```sh
-# Add a package - required args only
-just add mypackage https://github.com/user/mypackage
+just add MRCIEU/TwoSampleMR
+```
 
-# With branch
-just add mr.simss https://github.com/amandaforde/mr.simss refs/pull/123/head
-
-# With subdir
-just add mypackage https://github.com/user/repo "" subdir-name
-
-# With both
-just add mypackage https://github.com/user/repo mybranch mysubdir
-
+```sh
 # Remove a package
 just remove mypackage
 ```
