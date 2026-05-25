@@ -398,6 +398,10 @@
     "url": "https://github.com/slowkow/proxysnps"
   },
   {
+    "package": "qbaconfound",
+    "url": "https://github.com/remlapmot/qbaconfound"
+  },
+  {
     "package": "RadialMR",
     "url": "https://github.com/WSpiller/RadialMR"
   },
