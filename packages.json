@@ -73,8 +73,7 @@
   },
   {
     "package": "FusioMR",
-    "url": "https://github.com/kangbw702/FusioMR",
-    "branch": "refs/pull/2/head"
+    "url": "https://github.com/kangbw702/FusioMR"
   },
   {
     "package": "gassocplot",
