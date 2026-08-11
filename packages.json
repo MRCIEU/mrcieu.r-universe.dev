@@ -257,7 +257,8 @@
   },
   {
     "package": "MRAPSS",
-    "url": "https://github.com/YangLabHKUST/MR-APSS"
+    "url": "https://github.com/remlapmot/MR-APSS",
+    "branch": "suggestions"
   },
   {
     "package": "mrbayes",
