@@ -227,7 +227,8 @@
   },
   {
     "package": "MR.LDP",
-    "url": "https://github.com/QingCheng0218/MR.LDP"
+    "url": "https://github.com/remlapmot/MR.LDP",
+    "branch": "suggestions"
   },
   {
     "package": "mr.pivw",
