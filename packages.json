@@ -459,7 +459,8 @@
   },
   {
     "package": "tryx",
-    "url": "https://github.com/explodecomputer/tryx"
+    "url": "https://github.com/explodecomputer/tryx",
+    "branch": "refs/pull/26/head"
   },
   {
     "package": "TVMR",
