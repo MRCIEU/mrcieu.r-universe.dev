@@ -438,6 +438,10 @@
     "url": "https://github.com/noahlorinczcomi/simmrd"
   },
   {
+    "package": "simulateGP",
+    "url": "https://github.com/explodecomputer/simulateGP"
+  },
+  {
     "package": "sisVIVE",
     "url": "https://github.com/cran/sisVIVE"
   },
